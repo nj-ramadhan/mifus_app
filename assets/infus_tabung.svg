@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="140"
+   height="180"
+   viewBox="0 0 66.145848 102.65824"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="infus_tabung.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.1111111"
+     inkscape:cx="61.232143"
+     inkscape:cy="150.91071"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1127">
+      <g
+         id="g1131"
+         transform="matrix(1.2619928,0,0,1.271892,29.249081,-41.372514)"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.80057;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill">
+        <path
+           id="path1129"
+           d="m 15.933397,46.928919 c -4.3696,0 -7.8873779,3.517775 -7.8873779,7.887374 v 43.244388 c 0,4.369599 3.5177779,7.887369 7.8873779,7.887369 h 1.0883 c 0,3.56831 0.42452,6.44095 0.95188,6.44095 h 12.23905 c 0.52736,0 0.95188,-2.87264 0.95188,-6.44095 h 1.08778 c 4.3696,0 7.88738,-3.51777 7.88738,-7.887369 V 54.816293 c 0,-4.369599 -3.51778,-7.887374 -7.88738,-7.887374 z"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.80057;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+      </g>
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     id="layer1"
+     inkscape:groupmode="layer">
+    <path
+       id="vector_isi_min"
+       clip-path="none"
+       style="display:inline;fill:#00ffff;stroke-width:0.719726;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       inkscape:label="vector_isi_min"
+       d="m 12.86302,75.54726 c 0.409372,5.173251 4.670887,9.218744 9.912714,9.218744 h 1.373455 c 0,4.538504 0.536387,8.191717 1.201912,8.191717 h 15.44552 c 0.665525,0 1.200799,-3.653213 1.200799,-8.191717 h 1.373455 c 5.241827,0 9.504456,-4.045493 9.913828,-9.218744 z" />
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.150363;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="vector_isi_val"
+       width="40.423557"
+       height="0.8569805"
+       x="12.861144"
+       y="74.69072"
+       clip-path="none"
+       inkscape:label="vector_isi_val" />
+    <path
+       id="vector_body"
+       d="m 22.775762,9.7000436 c -5.514404,0 -9.953814,4.4742304 -9.953814,10.0318884 v 55.002191 c 0,5.557658 4.43941,10.031881 9.953814,10.031881 h 1.373427 c 0,4.538505 0.535741,8.192193 1.201265,8.192193 h 15.445593 c 0.665525,0 1.201266,-3.653688 1.201266,-8.192193 h 1.37277 c 5.514404,0 9.953817,-4.474223 9.953817,-10.031881 V 19.731932 c 0,-5.557658 -4.439413,-10.0318884 -9.953817,-10.0318884 z"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:2.2812;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       inkscape:label="vector_body" />
+  </g>
+</svg>
